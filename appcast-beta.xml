@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Nativeline Beta Updates</title>
+        <link>https://nativeline.com</link>
+        <description>Beta releases for Nativeline (Scale plan users only)</description>
+        <language>en</language>
+
+        <!--
+        Beta Appcast - Only Scale plan users receive these updates
+
+        Template for adding beta releases:
+
+        <item>
+            <title>Version X.X.X Beta Y</title>
+            <sparkle:version>BUILD_NUMBER</sparkle:version>
+            <sparkle:shortVersionString>X.X.X-beta.Y</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:releaseNotesLink>
+                https://github.com/nativeline/nativeline/releases/tag/vX.X.X-beta.Y
+            </sparkle:releaseNotesLink>
+            <pubDate>DAY, DD MON YYYY HH:MM:SS +0000</pubDate>
+            <enclosure
+                url="https://github.com/nativeline/nativeline/releases/download/vX.X.X-beta.Y/Nativeline-X.X.X-beta.Y.dmg"
+                sparkle:edSignature="EDDSA_SIGNATURE_HERE"
+                length="FILE_SIZE_IN_BYTES"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+        -->
+
+        <!-- Include stable releases so beta users also see them -->
+        <item>
+            <title>Version 1.1.0</title>
+            <sparkle:version>1766963472</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <description><![CDATA[
+ - Bug fixes
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v1.1.0
+            </sparkle:releaseNotesLink>
+            <pubDate>Sun, 28 Dec 2025 23:11:12 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v1.1.0/Nativeline-1.1.0.dmg"
+                sparkle:edSignature="zS7uszqPTTW40nmvfD1xJOawFlV+jTkB/JIu+i8V3o6StsP74DORC9EbRw0EAcQAzJhcvCdEIpTrL4tAGPFHCA=="
+                length="151602658"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
+            <title>Version 1.1.0</title>
+            <sparkle:version>1766960754</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <description><![CDATA[
+ - Bug fixes
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/gostastv/Nativeline/releases/tag/v1.1.0
+            </sparkle:releaseNotesLink>
+            <pubDate>Sun, 28 Dec 2025 22:25:54 +0000</pubDate>
+            <enclosure
+                url="https://github.com/gostastv/Nativeline/releases/download/v1.1.0/Nativeline-1.1.0.dmg"
+                sparkle:edSignature="OMHnzfNZ2V+JYuJLjs/7px+av8oQkoEhtvkFmbH+uHlnKAyehMBjfk1tKrMP0bOtK5NQper/g9V/773KprXPCw=="
+                length="150829840"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
+            <title>Version 1.1.0</title>
+            <sparkle:version>1766959551</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <description><![CDATA[
+ - Bug fixes
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/gostastv/Nativeline/releases/tag/v1.1.0
+            </sparkle:releaseNotesLink>
+            <pubDate>Sun, 28 Dec 2025 22:05:51 +0000</pubDate>
+            <enclosure
+                url="https://github.com/gostastv/Nativeline/releases/download/v1.1.0/Nativeline-1.1.0.dmg"
+                sparkle:edSignature="OMHnzfNZ2V+JYuJLjs/7px+av8oQkoEhtvkFmbH+uHlnKAyehMBjfk1tKrMP0bOtK5NQper/g9V/773KprXPCw=="
+                length="150829840"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
+            <title>Version 1.0.0</title>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:releaseNotesLink>
+                https://github.com/gostastv/Nativeline/releases/tag/v1.0.0
+            </sparkle:releaseNotesLink>
+            <pubDate>Sun, 22 Dec 2024 12:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/gostastv/Nativeline/releases/download/v1.0.0/Nativeline-1.0.0.dmg"
+                sparkle:edSignature="REPLACE_WITH_EDDSA_SIGNATURE"
+                length="52428800"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <!-- Example Beta Release (uncomment and fill in when releasing a beta)
+        <item>
+            <title>Version 1.1.0 Beta 1</title>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0-beta.1</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:releaseNotesLink>
+                https://github.com/nativeline/nativeline/releases/tag/v1.1.0-beta.1
+            </sparkle:releaseNotesLink>
+            <pubDate>Mon, 23 Dec 2024 12:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/nativeline/nativeline/releases/download/v1.1.0-beta.1/Nativeline-1.1.0-beta.1.dmg"
+                sparkle:edSignature="REPLACE_WITH_EDDSA_SIGNATURE"
+                length="52428800"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+        -->
+
+    </channel>
+</rss>
