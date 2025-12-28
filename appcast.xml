@@ -39,7 +39,7 @@
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 28 Dec 2025 23:11:12 +0000</pubDate>
             <enclosure
-                url="https://github.com/Nativeline/Nativeline/releases/download/v1.1.0/Nativeline-1.1.0.dmg"
+                url="https://github.com/Nativeline/Nativeline/releases/download/v1.1.0/nativelinesilicon.dmg"
                 sparkle:edSignature="zS7uszqPTTW40nmvfD1xJOawFlV+jTkB/JIu+i8V3o6StsP74DORC9EbRw0EAcQAzJhcvCdEIpTrL4tAGPFHCA=="
                 length="151602658"
                 type="application/octet-stream"/>
