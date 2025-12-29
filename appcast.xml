@@ -28,6 +28,25 @@
 
         <!-- Current Release -->
         <item>
+            <title>Version 1.1.4</title>
+            <sparkle:version>1767002377</sparkle:version>
+            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <description><![CDATA[
+- Usage limit block access when usage is still remaining fixed
+- Run app button only opening simulator fixed
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v1.1.4
+            </sparkle:releaseNotesLink>
+            <pubDate>Mon, 29 Dec 2025 09:59:37 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v1.1.4/Nativelinesilicon.dmg"
+                sparkle:edSignature="fmD0OnQaigleh2yqSANJE9g1YqAbtygLKPxS9e6b1oLR6psBohfUqKJnwDpAXOGuV2NLZ6x1dKVNGtj9DDNPAw=="
+                length="154644603"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.1.3</title>
             <sparkle:version>1766979862</sparkle:version>
             <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
