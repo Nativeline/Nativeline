@@ -28,6 +28,24 @@
 
         <!-- Current Release -->
         <item>
+            <title>Version 1.1.2</title>
+            <sparkle:version>1766971259</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <description><![CDATA[
+- Beta Access
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v1.1.2
+            </sparkle:releaseNotesLink>
+            <pubDate>Mon, 29 Dec 2025 01:20:59 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v1.1.2/Nativelinesilicon.dmg"
+                sparkle:edSignature="/R5PoFe5PdhYQTqIxx41mbbDUp/ZL9BOToMZnUU5DoYks896qTW4WhN3SZCee0J0dL6wFdTsxLJ65fmuPmsyBw=="
+                length="154382560"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.1.1</title>
             <sparkle:version>1766965906</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
