@@ -28,6 +28,28 @@
 
         <!-- Current Release -->
         <item>
+            <title>Version 1.2.0</title>
+            <sparkle:version>1767142241</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <description><![CDATA[
+- Settings redesign - cleaner navigation, plus lock your app to light/dark mode directly 
+- Simulator controls - choose appearance before launching preview
+- Quick Tips - onboarding hints for new users
+- UI refresh across Home, Project Settings, and Database
+- Fixes - TestFlight ID detection, color palette hex codes, wizard improvements
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v1.2.0
+            </sparkle:releaseNotesLink>
+            <pubDate>Wed, 31 Dec 2025 00:50:41 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v1.2.0/Nativelinesilicon.dmg"
+                sparkle:edSignature="0udFxGT0aKPk8YaysxLC5pxlBC7TyQXv4TtvAOrUUA5IRf8TeIUXhrlP9O9CJeBbC9hD4fEf+8gKiFXut3lTCw=="
+                length="156121905"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.1.4</title>
             <sparkle:version>1767002377</sparkle:version>
             <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
