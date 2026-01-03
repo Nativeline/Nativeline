@@ -31,6 +31,28 @@
 
         <!-- Include stable releases so beta users also see them -->
         <item>
+            <title>Version 1.3.0</title>
+            <sparkle:version>1767435399</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <description><![CDATA[
+- Dependency installer Xcode fixes
+- Automatic open/update simulator when build succeeds
+- Optional Max mode (allows you to increase the AI's power)
+- AI tuning
+- Bug fixes
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v1.3.0
+            </sparkle:releaseNotesLink>
+            <pubDate>Sat, 03 Jan 2026 10:16:39 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v1.3.0/Nativelinesilicon.dmg"
+                sparkle:edSignature="UqJQrgNj+jbthpqacucPIVASuMy9XArJ4loY+AHx3NX4RriAR5LLAVay7xxFaZknuGNQCzDPm1LFYmpuK7z9BA=="
+                length="152221489"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.2.1</title>
             <sparkle:version>1767232283</sparkle:version>
             <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
