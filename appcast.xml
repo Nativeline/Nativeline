@@ -27,45 +27,31 @@
         -->
 
         <!-- Current Release -->
-        <item>
-            <title>Version 1.3.2</title>
-            <sparkle:version>2322222222</sparkle:version>
-            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
-            <description><![CDATA[
-- Install update auto check bug fix
-            ]]></description>
-            <sparkle:releaseNotesLink>
-                https://github.com/Nativeline/Nativeline/releases/tag/v1.3.2
-            </sparkle:releaseNotesLink>
-            <pubDate>Sun, 04 Jan 2026 22:37:32 +0000</pubDate>
-            <enclosure
-                url="https://github.com/Nativeline/Nativeline/releases/download/v1.3.2/Nativelinesilicon.dmg"
-                sparkle:edSignature="wD5GbaofetpmXrl2vR3x7X94OZci4Di/Zctr90kHeNDn6XTnW0o0Rr8aBA2sIIfPEu4pF4SAXFu4ZzyAxhstDg=="
-                sparkle:os="macos-arm64"
-                length="150103176"
-                type="application/octet-stream"/>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-        </item>
-
-        <item>
-            <title>Version 1.3.2</title>
-            <sparkle:version>2322222222</sparkle:version>
-            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
-            <description><![CDATA[
-- Install update auto check bug fix
-            ]]></description>
-            <sparkle:releaseNotesLink>
-                https://github.com/Nativeline/Nativeline/releases/tag/v1.3.2
-            </sparkle:releaseNotesLink>
-            <pubDate>Sun, 04 Jan 2026 22:37:32 +0000</pubDate>
-            <enclosure
-                url="https://github.com/Nativeline/Nativeline/releases/download/v1.3.2/Nativelineintel.dmg"
-                sparkle:edSignature="NhRY5e9aQTm28TXQbjTsNqAnLYlixfdp4D32GG+V21gBxaBHd/HH3+95MzufLNQn1arIO2iEuKAWtHBdXJ84CQ=="
-                sparkle:os="macos-x86_64"
-                length="130731205"
-                type="application/octet-stream"/>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-        </item>
+          <item>
+              <title>Version 1.3.2</title>
+              <sparkle:version>2322222222</sparkle:version>
+              <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+              <description><![CDATA[
+  - Install update auto check bug fix
+              ]]></description>
+              <sparkle:releaseNotesLink>
+                  https://github.com/Nativeline/Nativeline/releases/tag/v1.3.2
+              </sparkle:releaseNotesLink>
+              <pubDate>Sun, 04 Jan 2026 22:37:32 +0000</pubDate>
+              <enclosure
+                  url="https://github.com/Nativeline/Nativeline/releases/download/v1.3.2/Nativelinesilicon.dmg"
+                  sparkle:edSignature="wD5GbaofetpmXrl2vR3x7X94OZci4Di/Zctr90kHeNDn6XTnW0o0Rr8aBA2sIIfPEu4pF4SAXFu4ZzyAxhstDg=="
+                  sparkle:os="macos-arm64"
+                  length="150103176"
+                  type="application/octet-stream"/>
+              <enclosure
+                  url="https://github.com/Nativeline/Nativeline/releases/download/v1.3.2/Nativelineintel.dmg"
+                  sparkle:edSignature="NhRY5e9aQTm28TXQbjTsNqAnLYlixfdp4D32GG+V21gBxaBHd/HH3+95MzufLNQn1arIO2iEuKAWtHBdXJ84CQ=="
+                  sparkle:os="macos-x86_64"
+                  length="130731205"
+                  type="application/octet-stream"/>
+              <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+          </item>
         <item>
             <title>Version 1.3.1</title>
             <sparkle:version>1767474469</sparkle:version>
