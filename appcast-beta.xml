@@ -388,5 +388,25 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
         </item>
 
+            <item>
+            <title>Version 1.3.6</title>
+            <sparkle:version>1767742024</sparkle:version>
+            <sparkle:shortVersionString>1.3.6</sparkle:shortVersionString>
+            <description><![CDATA[
+- Fixed AI agent timing out during file creation
+- Dependency installer freeze issue fixed
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v1.3.6
+            </sparkle:releaseNotesLink>
+            <pubDate>Tue, 06 Jan 2026 23:27:04 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v1.3.6/Nativelinesilicon.dmg"
+                sparkle:edSignature="5f0lbjrpsRuTrNGM/0U5pEfDxtNCjiK5j4McSvz3Zj7TMmHnmjQsvYYbursuFDRr4IoaNAkhEr1FRIIbAQgLCw=="
+                length="146359356"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
     </channel>
 </rss>
