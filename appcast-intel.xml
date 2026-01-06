@@ -8,8 +8,27 @@
 
         <!-- Current Release -->
         <item>
+            <title>Version 1.3.5</title>
+            <sparkle:version>1767686928</sparkle:version>
+            <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
+            <description><![CDATA[
+- Fixed AI agent continuing plans
+- BYOK implemented
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v1.3.5
+            </sparkle:releaseNotesLink>
+            <pubDate>Tue, 06 Jan 2026 08:08:48 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v1.3.5/Nativelineintel.dmg"
+                sparkle:edSignature="vk0brrUQTjSemZjk42+jHp9JvFviII0GMsBxfbBdJG5SrAIvhOiZcyY10DpSnKJOdG4Zop7/nIuN5Q6lchNjDw=="
+                length="124425748"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.3.4</title>
-            <sparkle:version>2542222222</sparkle:version>
+            <sparkle:version>1767656265</sparkle:version>
             <sparkle:shortVersionString>1.3.4</sparkle:shortVersionString>
             <description><![CDATA[
 - Gatekeeper Bug Fixes
