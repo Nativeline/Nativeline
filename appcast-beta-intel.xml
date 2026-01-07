@@ -8,6 +8,27 @@
 
         <!-- Current Release -->
         <item>
+            <title>Version 1.3.7</title>
+            <sparkle:version>1767764377</sparkle:version>
+            <sparkle:shortVersionString>1.3.7</sparkle:shortVersionString>
+            <description><![CDATA[
+- Project creation app name characters project corruption fixed
+- Dependency installer not installing Xcode fixed
+- Deterministic file creation and tool fixes
+- Additional bug fixes
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v1.3.7
+            </sparkle:releaseNotesLink>
+            <pubDate>Wed, 07 Jan 2026 05:39:37 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v1.3.7/Nativelineintel.dmg"
+                sparkle:edSignature="7qLywrfEd2Xfao2bvGhqfe72/vjQoa5MtMpfnAR7JxDpLBVp7Q/uA6/vphcfdl37/7dHEoxDyj+uoLXp5sl5Dg=="
+                length="124675536"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.3.6</title>
             <sparkle:version>1767742024</sparkle:version>
             <sparkle:shortVersionString>1.3.6</sparkle:shortVersionString>
