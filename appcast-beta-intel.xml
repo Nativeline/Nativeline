@@ -8,6 +8,29 @@
 
         <!-- Current Release -->
         <item>
+            <title>Version 1.3.9</title>
+            <sparkle:version>1767872405</sparkle:version>
+            <sparkle:shortVersionString>1.3.9</sparkle:shortVersionString>
+            <description><![CDATA[
+- UI overhauled on account & settings page
+- Fixed AI dropping off due to network errors
+- Fixed AI not following plans
+- Improved AI consistency with writing/editing files
+- Dependency Installer check loop fixed
+- Additional bug fixes & AI tweaks
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v1.3.9
+            </sparkle:releaseNotesLink>
+            <pubDate>Thu, 08 Jan 2026 11:40:05 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v1.3.9/Nativelineintel.dmg"
+                sparkle:edSignature="o12x9NcLTapNl/XIx/0+VRB0VMKQZrp0MOlMaybp9WqSVLRdqMFDOcEjgjVDXSYeT03MoAxfEu4128kRgt3oAg=="
+                length="122955915"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.3.8</title>
             <sparkle:version>1767783041</sparkle:version>
             <sparkle:shortVersionString>1.3.8</sparkle:shortVersionString>
