@@ -8,8 +8,30 @@
 
         <!-- Current Release -->
         <item>
+            <title>Version 1.4.1</title>
+            <sparkle:version>1768434241</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <description><![CDATA[
+- Smarter code edits - AI recovers from whitespace mismatches automatically, fewer failed edits
+- Smoother text load in - Text now flows naturally instead of appearing in bursts
+- Better auto-scroll - Chat follows along as the AI responds
+- Faster, more reliable responses with unified reasoning
+- Cleaner message display - Fixed duplicate message issues
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v1.4.1
+            </sparkle:releaseNotesLink>
+            <pubDate>Wed, 14 Jan 2026 23:44:01 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v1.4.1/Nativelineintel.dmg"
+                sparkle:edSignature="YPxW2Vnsg11QeI50KZfF7KdVXKMyrd4DYgd8dHt06tyeXySbQGcKlu4iSEi/o/os59Bp3E+Zp5WY9xhfoabsCg=="
+                length="123116277"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.4.0</title>
-            <sparkle:version>4222222222</sparkle:version>
+            <sparkle:version>1768348907</sparkle:version>
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
             <description><![CDATA[
 - Optimized NEO to utilize lesser bits
