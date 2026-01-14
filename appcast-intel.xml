@@ -9,7 +9,7 @@
         <!-- Current Release -->
         <item>
             <title>Version 1.4.1</title>
-            <sparkle:version>1768434241</sparkle:version>
+            <sparkle:version>4322222222</sparkle:version>
             <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
             <description><![CDATA[
 - Smarter code edits - AI recovers from whitespace mismatches automatically, fewer failed edits
