@@ -29,7 +29,7 @@
         <!-- Current Release -->
         <item>
             <title>Version 1.4.0</title>
-            <sparkle:version>1768348907</sparkle:version>
+            <sparkle:version>4222222222</sparkle:version>
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
             <description><![CDATA[
 - Optimized NEO to utilize lesser bits
