@@ -8,8 +8,30 @@
 
         <!-- Current Release -->
         <item>
+            <title>Version 1.4.0</title>
+            <sparkle:version>1768348907</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <description><![CDATA[
+- Optimized NEO to utilize lesser bits
+- Performance improvements
+- Improved dependency installer
+- TestFlight deployment bug fixes
+- Additional bug fixes
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v1.4.0
+            </sparkle:releaseNotesLink>
+            <pubDate>Wed, 14 Jan 2026 00:01:47 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v1.4.0/Nativelineintel.dmg"
+                sparkle:edSignature="sFc1dfFDO/MxMP6H7DiLCiSByhjJ/JJG/NJAoZzARoclnjuKuOccozh+qM4myszk9zFO2aGrYd4nXa19iVoaCA=="
+                length="122094534"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.3.10</title>
-            <sparkle:version>3222222222</sparkle:version>
+            <sparkle:version>1767919158</sparkle:version>
             <sparkle:shortVersionString>1.3.10</sparkle:shortVersionString>
             <description><![CDATA[
 - Bug Fixes
