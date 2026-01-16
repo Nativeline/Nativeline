@@ -9,6 +9,28 @@
         <!-- Current Release -->
         <item>
             <title>Version 1.4.3</title>
+            <sparkle:version>1768568631</sparkle:version>
+            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+            <description><![CDATA[
+- Fixed AI not creating database
+- Fixed crash when database tab opens
+- Improved AI agents memory
+- Added better error handling
+- Additional bug fixes and performance enhancements
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v1.4.3
+            </sparkle:releaseNotesLink>
+            <pubDate>Fri, 16 Jan 2026 13:03:51 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v1.4.3/Nativelineintel.dmg"
+                sparkle:edSignature="5sow5W+r7KCToLhdpkCxaA9ud+QShsqOvgWBf3xoHfENCm3guDquut6n52OKnyOO3F3SSO/gTnofm3YIcM9KDg=="
+                length="123025066"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
+            <title>Version 1.4.3</title>
             <sparkle:version>1768567768</sparkle:version>
             <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
             <description><![CDATA[
