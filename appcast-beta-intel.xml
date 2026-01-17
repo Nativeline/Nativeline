@@ -8,6 +8,42 @@
 
         <!-- Current Release -->
         <item>
+            <title>Version 1.4.4</title>
+            <sparkle:version>1768668572</sparkle:version>
+            <sparkle:shortVersionString>1.4.4</sparkle:shortVersionString>
+            <description><![CDATA[
+AI Assistant
+- Longer Memory — AI now remembers more of your conversation and project context
+- Smarter Context — More efficient use of tokens means better, more relevant responses
+- Project Awareness — Improved understanding of your codebase structure and files
+Code Editor
+- Full File Management — Right-click any file or folder to rename, duplicate, delete, copy path, or reveal in Finder
+- Create Files & Folders — Use the + button or right-click to create new Swift files, SwiftUI views, JSON, and more with smart templates
+- Drag & Drop — Move files between folders by dragging them directly in the sidebar
+- Beautiful Dialogs — Redesigned file creation sheets with visual file type selector
+Database Browser
+- Redesigned Data Viewer — Clean, full-width table layout inspired by modern database tools
+- Resizable Columns — Drag column edges to adjust widths to your preference
+- Type Badges — See column types (uuid, text, int4, timestamp) at a glance in headers
+- Enhanced Pagination — Jump to any page, choose rows per page (10, 25, 50, 100)
+- Row Selection — Select rows with checkboxes for future bulk operations
+- Improved Performance — Faster, smoother scrolling when browsing large tables
+General
+- Stability Improvements — Various fixes for smoother app performance
+- Better Error Handling — Clearer error messages when things go wrong
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v1.4.4
+            </sparkle:releaseNotesLink>
+            <pubDate>Sat, 17 Jan 2026 16:49:32 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v1.4.4/Nativelineintel.dmg"
+                sparkle:edSignature="hWR8M52siJJsOdq7uTgsCFiFqp0brxfmPqpjzrS0Anka6Cf1dot14pPJS620NSvnte01JXmyAtKodJXyyzBcCw=="
+                length="121386560"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.4.3</title>
             <sparkle:version>1768568631</sparkle:version>
             <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
