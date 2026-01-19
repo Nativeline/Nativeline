@@ -643,5 +643,28 @@ General
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
         </item>
 
+            <item>
+            <title>Version 1.4.5</title>
+            <sparkle:version>1768859908</sparkle:version>
+            <sparkle:shortVersionString>1.4.5</sparkle:shortVersionString>
+            <description><![CDATA[
+- New coffee cup plan
+- Updated welcome view
+- Fixed simulator issues
+- Added delete account and forgot password feature
+- Additional bug fixes & performance improvements
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v1.4.5
+            </sparkle:releaseNotesLink>
+            <pubDate>Mon, 19 Jan 2026 21:58:28 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v1.4.5/Nativelinesilicon.dmg"
+                sparkle:edSignature="oUrvR+OOoTkLoA2XQY1VLJ7Zm6qgbQtKGhEJBPjO9FjfOALzZN+1fSidcZ7+3CeaKxkaTyXLnJnFILTMCzGyBA=="
+                length="148400440"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
     </channel>
 </rss>
