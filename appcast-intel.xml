@@ -8,8 +8,32 @@
 
         <!-- Current Release -->
         <item>
+            <title>Version 1.5.0</title>
+            <sparkle:version>1769128256</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <description><![CDATA[
+- AI Mode Selector — Switch between Standard and Max for enhanced reasoning and code quality
+- Redesigned About window with unified, premium look
+- Added Discord community link on about popup
+- Fixed duplicate certificate issue during TestFlight setup
+- Improved keychain reliability for API key storage
+- Better runtime log capture from iOS Simulator
+- Additional bug fixes & performance improvements
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v1.5.0
+            </sparkle:releaseNotesLink>
+            <pubDate>Fri, 23 Jan 2026 00:30:56 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v1.5.0/Nativelineintel.dmg"
+                sparkle:edSignature="0MsB1zUBMYCyy+IKaIGk+/MOJ63gx/2gcUvlS+vE0kSMWRcnWyUy0hvirOQarh/UWjRQ63t80yNgJMnW2hLYAQ=="
+                length="121498929"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.4.5</title>
-            <sparkle:version>4722222222</sparkle:version>
+            <sparkle:version>1768859908</sparkle:version>
             <sparkle:shortVersionString>1.4.5</sparkle:shortVersionString>
             <description><![CDATA[
 - New coffee cup plan
