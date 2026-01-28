@@ -8,6 +8,30 @@
 
         <!-- Current Release -->
         <item>
+            <title>Version 1.6.1</title>
+            <sparkle:version>1769583832</sparkle:version>
+            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <description><![CDATA[
+- New onboarding - Get started faster with guided setup
+- Version control - Restore your app to any previous version instantly
+- Liquid Glass everywhere - NEO (the AI) can now apply beautiful iOS 26 glass effects anywhere in your app
+- Premium shimmer effect on Upgrade button
+- 6x faster chat & smoother scrolling
+- Stability fixes for long conversations
+- Additional bug fixes
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v1.6.1
+            </sparkle:releaseNotesLink>
+            <pubDate>Wed, 28 Jan 2026 07:03:52 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v1.6.1/Nativelineintel.dmg"
+                sparkle:edSignature="u4eOh5oGg3fi6ee/bQKc/PUwWfk01V71rG0fcEb0P+8OnUNTtm6GeMIgvA0dgLr36OMK8VKHSYsGMOZmxbu1BA=="
+                length="122500890"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.6.0</title>
             <sparkle:version>1769576924</sparkle:version>
             <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
