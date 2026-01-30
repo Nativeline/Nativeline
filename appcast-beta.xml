@@ -763,5 +763,24 @@ General
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
         </item>
 
+            <item>
+            <title>Version 1.7.1</title>
+            <sparkle:version>1769795548</sparkle:version>
+            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+            <description><![CDATA[
+- Bug fixes
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v1.7.1
+            </sparkle:releaseNotesLink>
+            <pubDate>Fri, 30 Jan 2026 17:52:28 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v1.7.1/Nativelinesilicon.dmg"
+                sparkle:edSignature="Pu1aSTQL37o1UN+wl/AWkWRQfvh6zY8fk7SMpTGKsCk+/KUvaNYZ9bmHMIdcIL92lL6wToFHDvUou1Lu4dC7BA=="
+                length="145624390"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
     </channel>
 </rss>
