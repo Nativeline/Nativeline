@@ -8,8 +8,29 @@
 
         <!-- Current Release -->
         <item>
+            <title>Version 1.7.0</title>
+            <sparkle:version>1769735625</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <description><![CDATA[
+- Improved UI - Using latest liquid glass elements for MacOS 26+ users
+- Cleaner flow - Navigating the build page is smoother & brings elements out of your way
+- Removed BYOK - Removed due to external complexities
+- Button tips - When hovering over the versions button and clear button it now provides you a tip on what it does
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v1.7.0
+            </sparkle:releaseNotesLink>
+            <pubDate>Fri, 30 Jan 2026 01:13:45 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v1.7.0/Nativelineintel.dmg"
+                sparkle:edSignature="ETikSGuq3emtBzEc8Hxx7Tu7/WgakIZZi82ThrgidlH5NnugvUCCHzszXOh/ySHCaJ1KTlRdr3qVKV+p0Aw8Dw=="
+                length="124583717"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.6.1</title>
-            <sparkle:version>5222222222</sparkle:version>
+            <sparkle:version>1769583832</sparkle:version>
             <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
             <description><![CDATA[
 - New onboarding - Get started faster with guided setup
