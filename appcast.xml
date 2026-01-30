@@ -29,7 +29,7 @@
         <!-- Current Release -->
         <item>
             <title>Version 1.7.0</title>
-            <sparkle:version>1769735625</sparkle:version>
+            <sparkle:version>5322222222</sparkle:version>
             <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
             <description><![CDATA[
 - Improved UI - Using latest liquid glass elements for MacOS 26+ users
