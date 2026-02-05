@@ -9,7 +9,7 @@
         <!-- Current Release -->
         <item>
             <title>Version 2.0</title>
-            <sparkle:version>1770314441</sparkle:version>
+            <sparkle:version>6222222222</sparkle:version>
             <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
             <description><![CDATA[
 - Added Mac & iPad support. You will now be able to create, ship & export iPad and Mac apps in Nativeline.
