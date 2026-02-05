@@ -8,6 +8,29 @@
 
         <!-- Current Release -->
         <item>
+            <title>Version 2.0</title>
+            <sparkle:version>1770314441</sparkle:version>
+            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+            <description><![CDATA[
+- Added Mac & iPad support. You will now be able to create, ship & export iPad and Mac apps in Nativeline.
+- Export Mac apps as DMGs & Ship to TestFlight
+- Select iPhone, iPad, or Mac mode on home page.
+- Improved projet management.
+- Added package dependency installer in Nativeline.
+- Additional bug fixes
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v2.0
+            </sparkle:releaseNotesLink>
+            <pubDate>Thu, 05 Feb 2026 18:00:41 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v2.0/Nativelineintel.dmg"
+                sparkle:edSignature="OVest4hH+Czoe/cysoylhb1K9jpezv9Dd61NQ8scAKi7UrNK6DkiOvZHj5tNLCbzVDk+FDXIBYUpo3jgBuTFCQ=="
+                length="136216577"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.7.2</title>
             <sparkle:version>1769922436</sparkle:version>
             <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
