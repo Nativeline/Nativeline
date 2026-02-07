@@ -8,8 +8,29 @@
 
         <!-- Current Release -->
         <item>
+            <title>Version 2.1</title>
+            <sparkle:version>1770451303</sparkle:version>
+            <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+            <description><![CDATA[
+- Opus 4.6 now powers Max mode. Enable max mode through the chatbox when selected.
+- Max mode now provides better UI and app generation
+- Improved planning
+- Deeper reasoning & more efficient file editing
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v2.1
+            </sparkle:releaseNotesLink>
+            <pubDate>Sat, 07 Feb 2026 08:01:43 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v2.1/Nativelineintel.dmg"
+                sparkle:edSignature="jG7Syy37wRPtWgX2hQFVBwfH3voco6qsMUTE5MgKs3pWX+EIteg9bNjXrvihIiM03CA/NyKn7J0JLBM38fPUDA=="
+                length="136426758"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 2.0</title>
-            <sparkle:version>6222222222</sparkle:version>
+            <sparkle:version>1770314441</sparkle:version>
             <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
             <description><![CDATA[
 - Added Mac & iPad support. You will now be able to create, ship & export iPad and Mac apps in Nativeline.

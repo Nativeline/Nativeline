@@ -826,5 +826,27 @@ General
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
         </item>
 
+            <item>
+            <title>Version 2.1</title>
+            <sparkle:version>1770451303</sparkle:version>
+            <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+            <description><![CDATA[
+- Opus 4.6 now powers Max mode. Enable max mode through the chatbox when selected.
+- Max mode now provides better UI and app generation
+- Improved planning
+- Deeper reasoning & more efficient file editing
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v2.1
+            </sparkle:releaseNotesLink>
+            <pubDate>Sat, 07 Feb 2026 08:01:43 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v2.1/Nativelinesilicon.dmg"
+                sparkle:edSignature="I+PQnntS32Gz/l0qmDyev25Cmha4xnwmJJcrGCRDD+fg3rgk3JjO2RCApJzWfQ/+7PRrJR4uXAiQH19Q1oXaBQ=="
+                length="161331406"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
     </channel>
 </rss>
