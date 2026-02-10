@@ -867,5 +867,25 @@ General
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
         </item>
 
+            <item>
+            <title>Version 2.2</title>
+            <sparkle:version>1770763850</sparkle:version>
+            <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
+            <description><![CDATA[
+- Performance improvements
+- Bug fixes
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v2.2
+            </sparkle:releaseNotesLink>
+            <pubDate>Tue, 10 Feb 2026 22:50:50 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v2.2/Nativelinesilicon.dmg"
+                sparkle:edSignature="d5inPrwKWXYai0owJJsNBwUChNO3yvKYKz5Rssa4z4VHA/KUP92+4b2FE+cAT+90OSUHM42QAapo1FGV2PJmDA=="
+                length="161523804"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
     </channel>
 </rss>
