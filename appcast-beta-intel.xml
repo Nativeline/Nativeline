@@ -9,6 +9,25 @@
         <!-- Current Release -->
         <item>
             <title>Version 2.2</title>
+            <sparkle:version>1770766326</sparkle:version>
+            <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
+            <description><![CDATA[
+- Performance improvements
+- Bug fixes
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v2.2
+            </sparkle:releaseNotesLink>
+            <pubDate>Tue, 10 Feb 2026 23:32:06 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v2.2/Nativelineintel.dmg"
+                sparkle:edSignature="+V5INmNlbBRs0p7xpNX/Tf30Lyk+yZCWn2gcJ2F5nv/4yQwPOq0XV/5vH4p3C9h7yfHxg9BbkEfSoRg0FsLjCg=="
+                length="135396283"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
+            <title>Version 2.2</title>
             <sparkle:version>1770763850</sparkle:version>
             <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
             <description><![CDATA[
