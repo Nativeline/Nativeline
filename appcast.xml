@@ -29,7 +29,7 @@
         <!-- Current Release -->
         <item>
             <title>Version 2.2</title>
-            <sparkle:version>6422222222</sparkle:version>
+            <sparkle:version>6322222222</sparkle:version>
             <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
             <description><![CDATA[
 - Bug fixes & performance enhancements.
