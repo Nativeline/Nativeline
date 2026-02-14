@@ -9,7 +9,7 @@
         <!-- Current Release -->
         <item>
             <title>Version 2.3.0</title>
-            <sparkle:version>6622222222</sparkle:version>
+            <sparkle:version>1622222222</sparkle:version>
             <sparkle:shortVersionString>2.3.0</sparkle:shortVersionString>
             <description><![CDATA[
 - Built-in Simulator — Preview and test your app without leaving Nativeline
