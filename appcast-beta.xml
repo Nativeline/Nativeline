@@ -995,5 +995,27 @@ General
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
         </item>
 
+            <item>
+            <title>Version 2.3.0</title>
+            <sparkle:version>1771121611</sparkle:version>
+            <sparkle:shortVersionString>2.3.0</sparkle:shortVersionString>
+            <description><![CDATA[
+- Built-in Simulator — Preview and test your app without leaving Nativeline
+- Redesigned chat experience — Cleaner UI, smoother scrolling, and real-time tool activity
+- Inline API key setup — Paste keys right in chat, no digging through code
+- Faster, smoother everything — Refined animations, less jank, tighter experience
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v2.3.0
+            </sparkle:releaseNotesLink>
+            <pubDate>Sun, 15 Feb 2026 02:13:31 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v2.3.0/Nativelinesilicon.dmg"
+                sparkle:edSignature="KktWQ5s4ZvhpKftQqo+jPuI7XQcEpOuLojR8sgA+J02C38elTgxIXuqz9QFg2+qbwT++l2J5QIYeZjYr9sJjBQ=="
+                length="160334573"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
     </channel>
 </rss>
