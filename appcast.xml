@@ -750,21 +750,6 @@ General
                 type="application/octet-stream"/>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
         </item>
-        <item>
-            <title>Version 1.0.0</title>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:releaseNotesLink>
-                https://github.com/gostastv/Nativeline/releases/tag/v1.0.0
-            </sparkle:releaseNotesLink>
-            <pubDate>Sun, 22 Dec 2024 12:00:00 +0000</pubDate>
-            <enclosure
-                url="https://github.com/gostastv/Nativeline/releases/download/v1.0.0/Nativeline-1.0.0.dmg"
-                sparkle:edSignature="REPLACE_WITH_EDDSA_SIGNATURE"
-                length="52428800"
-                type="application/octet-stream"/>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-        </item>
 
     </channel>
 </rss>
