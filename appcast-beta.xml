@@ -1037,5 +1037,25 @@ General
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
         </item>
 
+            <item>
+            <title>Version 2.4.0</title>
+            <sparkle:version>1771729686</sparkle:version>
+            <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
+            <description><![CDATA[
+- Toolkit — Use #font, #color, #data, #sound, #lottie, #video, and #3d to drop assets straight into your app. Pick a file, tell the AI what you want, and it's automatically added, configured, and ready to use in your code.                         - Enhanced mode is now the default — Enhanced delivers stronger UI design, fewer mistakes, and deeper reasoning than Quick mode — at the same or lower cost. It's now the recommended mode for all projects.                                                    - Quick mode renamed — The old Standard mode is now called Quick, better reflecting what it's for: fast, lightweight iterations when you don't need full design power.
+- Smarter resource handling — Assets added through commands are now reliably bundled into your app build. Fixed an issue where fonts, audio, data files, and other resources could silently fail to register.
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v2.4.0
+            </sparkle:releaseNotesLink>
+            <pubDate>Sun, 22 Feb 2026 03:08:06 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v2.4.0/Nativelinesilicon.dmg"
+                sparkle:edSignature="iWggqg9QVH2vkTWvQqS67F6fR/ar2jA6W8dMDuu8RGO69qhs613tS66wfXJP7frlU6QAoXbfGMDy2pud/bS9CA=="
+                length="161938923"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
     </channel>
 </rss>
