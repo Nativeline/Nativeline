@@ -29,7 +29,7 @@
         <!-- Current Release -->
         <item>
             <title>Version 2.4.0</title>
-            <sparkle:version>1771729686</sparkle:version>
+            <sparkle:version>7222222222</sparkle:version>
             <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
             <description><![CDATA[
 - Toolkit — Use #font, #color, #data, #sound, #lottie, #video, and #3d to drop assets straight into your app. Pick a file, tell the AI what you want, and it's automatically added, configured, and ready to use in your code.                         - Enhanced mode is now the default — Enhanced delivers stronger UI design, fewer mistakes, and deeper reasoning than Quick mode — at the same or lower cost. It's now the recommended mode for all projects.                                                    - Quick mode renamed — The old Standard mode is now called Quick, better reflecting what it's for: fast, lightweight iterations when you don't need full design power.
