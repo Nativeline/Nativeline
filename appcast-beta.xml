@@ -1057,5 +1057,24 @@ General
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
         </item>
 
+            <item>
+            <title>Version 2.4.1</title>
+            <sparkle:version>1772006967</sparkle:version>
+            <sparkle:shortVersionString>2.4.1</sparkle:shortVersionString>
+            <description><![CDATA[
+- Bug fixes
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v2.4.1
+            </sparkle:releaseNotesLink>
+            <pubDate>Wed, 25 Feb 2026 08:09:27 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v2.4.1/Nativelinesilicon.dmg"
+                sparkle:edSignature="ZmbZSODf7tpXBJDEj12/C/tvpLTkRCye/it+ojP8xSqya9DD2coK+87S6Hyx/VaHkLsqybFI0U38oi1FrQJTAA=="
+                length="159482296"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
     </channel>
 </rss>
