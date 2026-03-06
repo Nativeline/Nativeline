@@ -1076,5 +1076,31 @@ General
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
         </item>
 
+            <item>
+            <title>Version 2.4.3</title>
+            <sparkle:version>1772841208</sparkle:version>
+            <sparkle:shortVersionString>2.4.3</sparkle:shortVersionString>
+            <description><![CDATA[
+- Fixed chat auto-scroll not working during AI responses
+- Fixed API key input popup not appearing for new users
+- Fixed TestFlight deployment crashing with whitespace in Team ID
+- Fixed Mac apps failing to deploy to TestFlight
+- Fixed simulator Run button silently failing for new users
+- Simulator errors now show as alerts instead of failing silently
+- Added animated glow effect on simulator during builds
+- Added gift button to earn free bits via social sharing
+            ]]></description>
+            <sparkle:releaseNotesLink>
+                https://github.com/Nativeline/Nativeline/releases/tag/v2.4.3
+            </sparkle:releaseNotesLink>
+            <pubDate>Fri, 06 Mar 2026 23:53:28 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Nativeline/Nativeline/releases/download/v2.4.3/Nativelinesilicon.dmg"
+                sparkle:edSignature="gWDNPujD1spK9Qtxpbx2F+PTn1DgTqcHfxkSPFP9HmUVBzKLthFl4OwVu2ixY3EtX///rsVb2FhAOdKoauIyAw=="
+                length="159861419"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
     </channel>
 </rss>
