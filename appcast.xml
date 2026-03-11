@@ -29,7 +29,7 @@
         <!-- Current Release -->
         <item>
             <title>Version 3.1.0</title>
-            <sparkle:version>1773204796</sparkle:version>
+            <sparkle:version>8222222222</sparkle:version>
             <sparkle:shortVersionString>3.1.0</sparkle:shortVersionString>
             <description><![CDATA[
 - Built-in database — create and manage tables without leaving Nativeline
